@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Artyom</h1>
+<h1 align="center">Hi 👋, I'm Artem</h1>
 <h3 align="center">A Golang developer from Russia, Saint-Petersburg</h3>
 
 #### About me:
