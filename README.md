@@ -3,7 +3,7 @@
 
 #### About me:
 - 🗒️ I'm interested in web development and networking technologies.
-- 🏫 I'm </a> currently a student at SPBSUT, my degree is Informatics and Computer Engineering.
+- 🏫 I'm </a> currently a master's student at ITMO, my bachelor's degree is Informatics and Computer Engineering.
 - 🌚 LeetCode <a href="https://www.leetcode.com/kuchezai">enjoyer</a>:
 
   ![Kuchezai's LeetCode stats](https://leetcard.jacoblin.cool/Kuchezai)
